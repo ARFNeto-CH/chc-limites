@@ -1,0 +1,13 @@
+sizeof(long long int) = 8 bytes
+         0         1         2    2
+         0    5    0    5    0    5
+(8)  v =                  255
+Hex  v =                   FF
+(16) v =                65535
+Hex  v =                 FFFF
+(32) v =           4294967295
+Hex  v =             FFFFFFFF
+(32) v =           4294967295
+(32) v =             FFFFFFFF
+(64) v = 18446744073709551615
+Hex  v =     FFFFFFFFFFFFFFFF
